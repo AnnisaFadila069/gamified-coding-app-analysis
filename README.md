@@ -10,7 +10,6 @@ With the increasing integration of programming into early education, many gamifi
 - Perform sentiment analysis using TextBlob and VADER
 - Identify key topics discussed in reviews via topic modeling (LDA)
 - Benchmark apps based on features and user feedback
-- Cluster apps by similarity to provide educational recommendations
 
 ## 🔍 Target Applications
 
@@ -32,7 +31,6 @@ Sources for selection:
 - ✅ Text preprocessing with `nltk`, `contractions`, `spacy`
 - ✅ Sentiment analysis via `TextBlob` and `VADER`
 - ✅ Topic modeling with LDA (`scikit-learn`)
-- ✅ App clustering with K-Means
 - ✅ WordCloud and visualization using `matplotlib` & `seaborn`
 
 ## 🧪 Installation
